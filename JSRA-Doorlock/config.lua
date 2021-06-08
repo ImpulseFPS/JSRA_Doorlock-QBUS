@@ -1,5 +1,5 @@
 Config = {}
-
+                            --BY  Joserra#0394
 Config.Doors = {
 	[1] = {
 	  ['DoorName'] = 'Police Front Door',
